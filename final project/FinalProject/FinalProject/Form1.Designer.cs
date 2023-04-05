@@ -129,6 +129,7 @@
             // button1
             // 
             button1.BackColor = Color.FromArgb(192, 64, 0);
+            button1.ForeColor = Color.White;
             button1.Location = new Point(893, 88);
             button1.Name = "button1";
             button1.Size = new Size(104, 78);
@@ -168,7 +169,7 @@
             // inputMemberToolStripMenuItem
             // 
             inputMemberToolStripMenuItem.Name = "inputMemberToolStripMenuItem";
-            inputMemberToolStripMenuItem.Size = new Size(224, 26);
+            inputMemberToolStripMenuItem.Size = new Size(186, 26);
             inputMemberToolStripMenuItem.Text = "Input Member";
             inputMemberToolStripMenuItem.Click += inputMemberToolStripMenuItem_Click;
             // 
@@ -308,7 +309,7 @@
             Controls.Add(button1);
             Controls.Add(dataGridView1);
             Controls.Add(menuStrip1);
-            ForeColor = Color.White;
+            ForeColor = Color.Black;
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "จองที่พัก";
