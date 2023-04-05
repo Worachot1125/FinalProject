@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\Finalproject\\Finalproject.csproj": {}
+    "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj": {}
   },
   "projects": {
-    "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\Finalproject\\Finalproject.csproj": {
+    "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
+        "projectUniqueName": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
         "projectName": "Finalproject",
-        "projectPath": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
+        "projectPath": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
         "packagesPath": "C:\\Users\\domez\\.nuget\\packages\\",
-        "outputPath": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\Finalproject\\obj\\",
+        "outputPath": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domez\\AppData\\Roaming\\NuGet\\NuGet.Config",

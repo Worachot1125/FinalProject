@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\FinalProject\\FinalProject.csproj",
-      "projectName": "FinalProject",
-      "projectPath": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
+      "projectName": "Finalproject",
+      "projectPath": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\Finalproject.csproj",
       "packagesPath": "C:\\Users\\domez\\.nuget\\packages\\",
-      "outputPath": "D:\\Download\\kku_work\\IN401105\\final project\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "D:\\Download\\kku_work\\IN401105\\FinalProject\\final project\\FinalProject\\Finalproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domez\\AppData\\Roaming\\NuGet\\NuGet.Config",
