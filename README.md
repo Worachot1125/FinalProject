@@ -35,7 +35,7 @@ class inputMember{
 }
 
   class Room{
-  -Pirce():void
+  +Pirce():void
 }
 
   class RoomA{
