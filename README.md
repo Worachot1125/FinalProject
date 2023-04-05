@@ -65,6 +65,14 @@ class inputMember{
   -Pay():void
   -CloseProgram():void
 }
+ 
+ Member -- from1
+ 
+  from1 -- inputMember
+  from1 -- Room
+  from1 -- Pay
+  
+  Pay -- Buy
 
   Room -- RoomA
   Room -- RoomB
