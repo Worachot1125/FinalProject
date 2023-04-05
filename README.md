@@ -12,9 +12,63 @@
 3.โครงสร้างของโปรแกรม (Class diagram) ของโปรแกรม ใช้ Mermaid ในการเขียน ตัวอย่าง การเขียน Classdiagram ใน Markdown  
 Class Diagram
 ```mermaid
-ClassDiagram
+classDiagram
   direction LR
   class from1{
-  -fdfdf():void
+  -inputMember():void
+  -Pay():void
+  -OpenFile():void
+  -SaveFile():void
 }
+
+class inputMember{
+  -Comfirm():void
+  -Clear():void
+}
+
+  class Member{
+  -Name():void
+  -ID():void
+  -Phone():void
+  -DateTime():void
+  -Room():void
+}
+
+  class Room{
+  -Pirce():void
+}
+
+  class RoomA{
+  +RoomA():void
+}
+
+  class RoomB{
+  +RoomB():void
+}
+
+  class RoomC{
+  +RoomC():void
+}
+
+  class RoomD{
+  +RoomD():void
+}
+  class RoomE{
+  +RoomE():void
+}
+
+  class Buy{
+  +getbill():void
+}
+
+  class Pay{
+  -Pay():void
+  -CloseProgram():void
+}
+
+  Room -- RoomA
+  Room -- RoomB
+  Room -- RoomC
+  Room -- RoomD
+  Room -- RoomE
 ```
